@@ -11,7 +11,7 @@
 | 2189C1 | 2189C1 - XOR Convenience (Easy Version) | - | [python3](2189C1/solution.py) | 2026-07-13 |
 | 2195B | 2195B - Heapify 1 | - | [python3](2195B/solution.py) | 2026-07-13 |
 | 2204B | 2204B - Right Maximum | - | [java](2204B/solution.java) | 2026-07-13 |
-| 2214A | 2214A - Odd One Out | - | [python3](2214A/solution.py) | 2026-07-13 |
-| 2236C | [2236C - Omsk Programmers](https://codeforces.com/problemset/problem/2236/C) | - | [java](2236C/solution.java) | 2026-07-13 |
+| 2214A | [2214A - Odd One Out](https://codeforces.com/problemset/problem/2214/A) | - | [python3](2214A/solution.py) | 2026-07-13 |
+| 2236C | 2236C - Omsk Programmers | - | [java](2236C/solution.java) | 2026-07-13 |
 | 2241A | 2241A - Divide and Conquer | - | [python3](2241A/solution.py) | 2026-07-13 |
 | 2242B | 2242B - Predominant Frequency Division | - | [python3](2242B/solution.py) | 2026-07-13 |
