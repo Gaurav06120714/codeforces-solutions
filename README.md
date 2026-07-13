@@ -6,4 +6,4 @@
 
 | # | Problem | Difficulty | Solution | Solved |
 |---|---------|------------|----------|--------|
-| 2241A | [2241A - Divide and Conquer](https://codeforces.com/problemset/problem/2241/A) | - | [python3](2241A/solution.py) | 2026-07-13 |
+| 2214A | [2214A - Odd One Out](https://codeforces.com/problemset/problem/2214/A) | - | [python3](2214A/solution.py) | 2026-07-13 |
