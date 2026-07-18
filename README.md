@@ -6,7 +6,7 @@
 
 | # | Problem | Difficulty | Solution | Solved |
 |---|---------|------------|----------|--------|
-| 004A | 4A - Watermelon | - | [python3](004A/solution.py) | 2026-07-13 |
+| 004A | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | - | [python3](004A/solution.py) | 2026-07-18 |
 | 071A | 71A - Way Too Long Words | - | [python3](071A/solution.py) | 2026-07-13 |
 | 2188A | 2188A - Divisible Permutation | - | [python3](2188A/solution.py) | 2026-07-13 |
 | 2189B | 2189B - The Curse of the Frog | - | [python3](2189B/solution.py) | 2026-07-13 |
@@ -20,5 +20,5 @@
 | 2236C | 2236C - Omsk Programmers | - | [java](2236C/solution.java) | 2026-07-13 |
 | 2241A | 2241A - Divide and Conquer | - | [python3](2241A/solution.py) | 2026-07-13 |
 | 2242B | 2242B - Predominant Frequency Division | - | [python3](2242B/solution.py) | 2026-07-13 |
-| 2244D | [2244D - Yaroslav and Productivity](https://codeforces.com/problemset/problem/2244/D) | - | [python3](2244D/solution.py) | 2026-07-18 |
+| 2244D | 2244D - Yaroslav and Productivity | - | [python3](2244D/solution.py) | 2026-07-18 |
 | 231A | 231A - Team | - | [python3](231A/solution.py) | 2026-07-13 |
