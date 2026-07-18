@@ -1,0 +1,44 @@
+# 2214B. 2214B - Are You Smiling?
+
+B. Are You Smiling?
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+Show us a smile! 😁
+
+Output
+
+For a properly chosen $\mathrm{?}$, the following equation holds: $\mathrm{U} + \mathrm{?} = \mathrm{HAPPY}$.
+
+Output $\mathrm{?}$, a string consisting of uppercase letters and numbers. 
+
+Example
+
+Input
+
+```
+show us your smile!
+
+```
+
+Output
+
+```
+     
+```
+
+[View on Codeforces](https://codeforces.com/problemset/problem/2214/B)
