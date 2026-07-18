@@ -14,8 +14,8 @@
 | 2189D1 | 2189D1 - Little String (Easy Version) | - | [python3](2189D1/solution.py) | 2026-07-13 |
 | 2193A | 2193A - DBMB and the Array | - | [python3](2193A/solution.py) | 2026-07-13 |
 | 2195B | 2195B - Heapify 1 | - | [python3](2195B/solution.py) | 2026-07-13 |
+| 2195C | [2195C - Dice Roll Sequence](https://codeforces.com/problemset/problem/2195/C) | - | [java](2195C/solution.java) | 2026-07-18 |
 | 2195D | 2195D - Absolute Cinema | - | [java](2195D/solution.java) | 2026-07-13 |
-| 2204A | [2204A - Passing the Ball](https://codeforces.com/problemset/problem/2204/A) | - | [java](2204A/solution.java) | 2026-07-18 |
 | 2204B | 2204B - Right Maximum | - | [java](2204B/solution.java) | 2026-07-13 |
 | 2214A | 2214A - Odd One Out | - | [python3](2214A/solution.py) | 2026-07-13 |
 | 2214B | 2214B - Are You Smiling? | - | [python3](2214B/solution.py) | 2026-07-18 |
