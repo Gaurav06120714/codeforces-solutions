@@ -10,12 +10,12 @@
 | 071A | 71A - Way Too Long Words | - | [python3](071A/solution.py) | 2026-07-13 |
 | 2188A | 2188A - Divisible Permutation | - | [python3](2188A/solution.py) | 2026-07-13 |
 | 2189B | 2189B - The Curse of the Frog | - | [python3](2189B/solution.py) | 2026-07-13 |
-| 2189C1 | 2189C1 - XOR Convenience (Easy Version) | - | [python3](2189C1/solution.py) | 2026-07-13 |
+| 2189C1 | [2189C1 - XOR Convenience (Easy Version)](https://codeforces.com/problemset/problem/2189/C1) | - | [python3](2189C1/solution.py) | 2026-07-18 |
 | 2189D1 | 2189D1 - Little String (Easy Version) | - | [python3](2189D1/solution.py) | 2026-07-13 |
 | 2192B | 2192B - Flipping Binary String | - | [java](2192B/solution.java) | 2026-07-18 |
 | 2193A | 2193A - DBMB and the Array | - | [python3](2193A/solution.py) | 2026-07-13 |
 | 2193B | 2193B - Reverse a Permutation | - | [python3](2193B/solution.py) | 2026-07-18 |
-| 2195B | [2195B - Heapify 1](https://codeforces.com/problemset/problem/2195/B) | - | [python3](2195B/solution.py) | 2026-07-18 |
+| 2195B | 2195B - Heapify 1 | - | [python3](2195B/solution.py) | 2026-07-13 |
 | 2195C | 2195C - Dice Roll Sequence | - | [java](2195C/solution.java) | 2026-07-18 |
 | 2195D | 2195D - Absolute Cinema | - | [java](2195D/solution.java) | 2026-07-13 |
 | 2204A | 2204A - Passing the Ball | - | [java](2204A/solution.java) | 2026-07-18 |
